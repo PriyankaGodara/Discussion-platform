@@ -88,7 +88,6 @@ The system consists of the following main components:
 | date  | Date     | Date when the comment was created      |
 
 ### Swagger Apis Docs 
-# example-swagger-autogen
 
 Install the dependencies:
 
