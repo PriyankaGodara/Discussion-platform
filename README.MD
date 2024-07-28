@@ -86,3 +86,19 @@ The system consists of the following main components:
 | text  | String   | Text content of the comment            |
 | likes | Array    | List of user IDs who liked the comment |
 | date  | Date     | Date when the comment was created      |
+
+### Swagger Apis Docs 
+# example-swagger-autogen
+
+Install the dependencies:
+
+```bash
+$ npm install
+```
+Use the command below to generate the documentation at project startup:
+```bash 
+$ node swagger.js
+```
+Run the project and access the documentation at:
+
+[http://localhost:5000/api-docs](http://localhost:5000/api-docs)
